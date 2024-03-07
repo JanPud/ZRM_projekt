@@ -1,3 +1,5 @@
+message = "\nHello World!\n"
+print(message)
 import numpy as numpy
 a=(1, 2)
 sum=numpy.sum(a)
